@@ -36,9 +36,9 @@
     "test": "yarn lint"
   },
   "dependencies": {
-    "defu": "^5.0.0",
-    "ufo": "^0.7.9",
-    "web-vitals": "^2.1.0"
+    "defu": "^5.0.1",
+    "ufo": "^0.8.4",
+    "web-vitals": "^2.1.4"
   },
   "devDependencies": {
     "@nuxt/types": "latest",
